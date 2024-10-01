@@ -1,4 +1,4 @@
-# TT_Sprint_3
+# TT_Sprint_3 Statistical Data Analysis
 This is a repository for TT Sprint 3 Statistical Data Analysis that analyzes cell phone plan data. The project determines which prepaid plan brings in more revenue for the company.
 - This project used independent t-tests to compare whether there were significant differences in revenues between plans, and for a specified location.
 - Data was prepared, aggregated, and exploratory analysis conducted prior to the final t-tests.
